@@ -1,0 +1,21 @@
+{
+  "name": "ATOM Compressor - Professional Image Processing",
+  "short_name": "ATOM Compressor",
+  "description": "Professional image compression, resizing, and AI-powered enhancement tools by Nonce Firewall",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F35E1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/atom-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["photo", "productivity", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
