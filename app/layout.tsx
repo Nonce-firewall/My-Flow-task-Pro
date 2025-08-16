@@ -85,7 +85,6 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>{children}</body>
         <main className="pt-16 md:pt-16 flex-1 flex flex-col">{children}</main>
-        <Footer />
       </body>
     </html>
   )
