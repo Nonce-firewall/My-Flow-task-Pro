@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   viewport: "width=device-width, initial-scale=1",
   themeColor: "#1e40af",
-    generator: 'v0.app'
+    generator: 'Nonce Firewall'
 }
 
 export default function RootLayout({
