@@ -84,8 +84,6 @@ export default function RootLayout({
         <link rel="manifest" href="/manifest.json" />
       </head>
       <body className={inter.className}>{children}</body>
-        <main className="pt-16 md:pt-16 flex-1 flex flex-col">{children}</main>
-      </body>
     </html>
   )
 }
