@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     url: "https://taskflow.noncefirewall.tech",
     type: "website",
     locale: "en_US",
-    [
+    images: [
       {
         url: "/images/nonce-firewall-logo.png",
         width: 512,
