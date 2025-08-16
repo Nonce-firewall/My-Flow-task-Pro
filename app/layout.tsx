@@ -2,7 +2,10 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Geist } from "next/font/google"
 import { Manrope } from "next/font/google"
+import { Inter } from "next/font/google"
 import "./globals.css"
+
+const inter = Inter({ subsets: ["latin"] })
 
 const geist = Geist({
   subsets: ["latin"],
