@@ -1,7 +1,7 @@
 {
-  "name": "ATOM Compressor - Professional Image Processing",
-  "short_name": "ATOM Compressor",
-  "description": "Professional image compression, resizing, and AI-powered enhancement tools by Nonce Firewall",
+  "name": "TaskFlow Pro - Professional Tasks Management App",
+  "short_name": "TaskFlow Pro",
+  "description": "Professional task management tools by Nonce Firewall",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,13 +9,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/images/atom-logo.png",
+      "src": "/images/nonce-firewall-logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "categories": ["photo", "productivity", "utilities"],
+  "categories": ["business", "productivity", "utilities"],
   "lang": "en",
   "dir": "ltr"
 }
